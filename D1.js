@@ -88,3 +88,6 @@ console.log(x)
 let Name1 = "john"
 let Name2 = "John"
 console.log (Name1 === Name2)
+
+//Extra
+console.log (Name1 === Name2.toLowerCase())
